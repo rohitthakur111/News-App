@@ -1,0 +1,6 @@
+// to run loading bar 
+: npm install react-top-loading-bar
+// to create routes 
+: npm install react-router
+// for  install  bootstrap js and css
+: npm install --save bootstrap@latest
